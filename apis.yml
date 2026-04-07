@@ -1,7 +1,11 @@
 aid: mwi-veterinary-supply
-url: https://raw.githubusercontent.com/api-evangelist/mwi-veterinary-supply/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/mwi-veterinary-supply/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.mwi-veterinary-supply.com
+description: >-
+  MWI Veterinary Supply is a leading distributor of animal health products to veterinarians
+  across the United States and the United Kingdom.
