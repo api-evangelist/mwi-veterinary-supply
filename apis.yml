@@ -25,9 +25,9 @@ common:
     url: https://www.mwivet.com/about-us
   - type: Contact
     url: https://www.mwivet.com/contact-us
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.mwivet.com/privacy-policy
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.mwivet.com/terms-and-conditions
 maintainers:
   - FN: Kin Lane
