@@ -19,6 +19,8 @@ tags:
   - Veterinary Supply
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mwianimalhealth
   - type: Website
     url: https://www.mwivet.com
   - type: About
