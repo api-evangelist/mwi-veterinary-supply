@@ -19,6 +19,8 @@ tags:
   - Veterinary Supply
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/mwi-veterinary-supply-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/mwianimalhealth
   - type: Website
