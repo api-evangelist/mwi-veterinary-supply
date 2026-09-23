@@ -1,7 +1,9 @@
 ---
 title: Animal Health
 url: https://octanecdn.com/cfawcom/cfawcom_926533952.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MWI Veterinary Supply" press release artificial intelligence'
 position: 2
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: MWI - Furscription Asset Purchase Agreement.
 url: https://www.sec.gov/Archives/edgar/data/1842356/000184235625000088/furscription-assetpurchase.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MWI Veterinary Supply" press release artificial intelligence'
 position: 3
 source: serpapi-google

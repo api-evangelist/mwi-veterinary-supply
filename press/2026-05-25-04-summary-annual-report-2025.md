@@ -1,7 +1,9 @@
 ---
 title: Summary Annual Report 2025
 url: https://s203.q4cdn.com/785768684/files/doc_financials/2025/ar/tm2533035d4_ars.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MWI Veterinary Supply" press release artificial intelligence'
 position: 4
 source: serpapi-google
